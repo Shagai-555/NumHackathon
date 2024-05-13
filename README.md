@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Сургуулийн Орчинтой холбоотой санал хүсэлтийг нэгтгэх Платформ
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
